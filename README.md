@@ -33,6 +33,7 @@ We welcome contributions! To keep packages consistent and useful, please follow 
 
 Use this structure for every new package (create a folder named after the skill/topic):
 
+```
 skill-or-topic-name/
 ├── README.md                 # Overview of the skill + how to use the package
 ├── 01-overview.md            # What the skill is, why learn it, expected outcomes
@@ -43,6 +44,7 @@ skill-or-topic-name/
 ├── 06-drills.md              # Practice drills and exercises
 ├── 07-training-methods.md    # Different approaches and progressions
 └── 08-materials.md           # Material lists by stage (beginner → advanced)
+```
 
 **Guidelines:**
 - Prefer free or openly accessible resources whenever possible
